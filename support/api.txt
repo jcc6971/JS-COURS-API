@@ -1,0 +1,6 @@
+joker-app
+https://api.blablagues.net/?rub=blagues
+user-app
+https://randomuser.me/api/?results=24
+meal-app
+https://www.themealdb.com/api/json/v1/1/search.php?s=chicken

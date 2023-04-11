@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.formatOnSave": true,
+    "editor.hover.enabled": false,
+    "editor.wordWrap": "on",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "json.schemas": [
+    
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.autoprefix": ["> 1%", "last 3 versions"],
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
